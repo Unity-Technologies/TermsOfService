@@ -1,146 +1,20 @@
-UNITY PRO, UNITY PLUS AND UNITY PERSONAL SOFTWARE
+Unity Pro, Unity Plus and Unity Personal Software Additional Terms
 
-ADDITIONAL TERMS
+**Last Updated November 4, 2016**
 
-**Last Updated June 28, 2016**
-
-SUMMARY OF IMPORTANT USE RESTRICTIONS
-
-Please read all of the Software Terms set forth below
-
-Scope
-
-As part of the Services offered by Unity pursuant to the Agreement, Unity also
-provides a downloadable software component (the “**Unity Software**”), which is
-provided on a non-royalty-bearing basis.  These Additional Terms govern your use
-of the Unity Software (the “**Software Terms**”). Depending on your requirements
-and circumstances, you will be permitted to use either Unity Pro, Unity Plus or
-Unity Personal.
-
-Primary Differences Between Unity Pro, Unity Plus and Unity Personal
-
-All three tiers of the Unity Software share most of the same features and
-functionality.  To see the differences between each tier, please visit [Unity’s
-online
-store](https://web.archive.org/web/20160709184431/https:/store.unity.com/).
-
-Which Version You Can Use - Revenue Restrictions
-
-Unity Personal may not be used by:
-
-1.  a Commercial Entity that has either: (a) reached annual gross revenues in
-    excess of US\$100,000, or (b) raised funds (including but not limited to
-    crowdfunding) in excess of US\$100,000, in each case during the most
-    recently completed fiscal year;
-
-2.  a Non-Commercial Entity (this means academic and governmental entities as
-    defined below) with a total annual budget in excess of US\$100,000 (for the
-    entire Non-Commercial Entity (not just a department)) for the most recently
-    completed fiscal year; or
-
-3.  an individual (not acting on behalf of a Legal Entity) or a Sole Proprietor
-    that has reached annual gross revenues in excess of US\$100,000 from its use
-    of the Unity Software during the most recently completed fiscal year, which
-    does not include any income earned by that individual which is unrelated to
-    its use of the Unity Software.
-
-Unity Plus is subject to payment of the applicable subscription fees, but may
-not be used by:
-
-1.  a Commercial Entity that has either: (a) reached annual gross revenues in
-    excess of US\$200,000, or (b) raised funds (including but not limited to
-    crowdfunding) in excess of US\$200,000, in each case during the most
-    recently completed fiscal year;
-
-2.  a Non-Commercial Entity (this means academic and governmental entities as
-    defined below) with a total annual budget in excess of US\$200,000 (for the
-    entire Non-Commercial Entity (not just a department)) for the most recently
-    completed fiscal year; or
-
-3.  an individual (not acting on behalf of a Legal Entity) or a Sole Proprietor
-    that has reached annual gross revenues in excess of US\$200,000 from its use
-    of the Unity Software during the most recently completed fiscal year, which
-    does not include any income earned by that individual which is unrelated to
-    its use of the Unity Software.
-
-Unity Pro may be used by anyone who pays the applicable subscription fees.
-
-Unity may monitor your compliance with and enforce these restrictions and
-requirements including but not limited to monitoring the number of downloads of
-Your Project Content and any available revenue estimate data.
-
-Auto-Renewal
-
-At the end of the subscription term for Unity Plus or Unity Pro, your
-subscription will automatically renew on a month to month basis at the
-then-current list price, unless you renew the subscription for a new
-subscription term or terminate and cancel it.  You may add new subscription
-seats while on this month-to-month plan without starting a new subscription
-term.  However, if you terminate your month-to-month plan, you will have to
-commit to a new subscription term if you choose to start using Unity Plus or
-Unity Pro again.
-
-You May Not Use Unity Personal, Unity Plus and/or Unity Pro Simultaneously
-
-You may not combine or integrate Your Project Content developed with one tier of
-Unity Software (e.g., Unity Personal) simultaneously with any of Your Project
-Content that you develop with another tier (e.g., Unity Plus or Unity Pro). Your
-Project Content developed with Unity Personal and/or Unity Plus will be tagged
-with an identifier that is used to enforce this restriction.
-
-One User Per Seat
-
-A seat is required for each individual using any version of the Unity Software.
- You may install the Unity Software on both a primary and a secondary computer
-or operating system for use only by the same user. You may not use both
-installations simultaneously. If you are an educational institution and purchase
-a standard, single educational seat to use the Unity Software , you must
-purchase a seat for each computer on which the Unity Software is to be used.
-
-Unity Console Add-on Developer Requirements
-
-Use of the Unity Software with certain console platforms is subject to the Unity
-Console Add-on Developer Requirements as set forth on the Unity website. The
-enablement keys for certain Unity Console Add-ons may be distributed by the
-console manufacturer.
-
-Streaming and Cloud Gaming Restrictions
-
-You may not directly or indirectly distribute Your Project Content by means of
-streaming or broadcasting where Your Project Content is primarily executed on a
-server and transmitted as a video stream or via low level graphics render
-commands over the open Internet to end user devices without a separate license
-from Unity. This restriction does not prevent end users from remotely accessing
-Your Project Content from an end user device that is running on another end user
-device.
-
-Embedded Unity Software Restriction
-
-You may not directly or indirectly distribute Your Project Content installed on
-more than 1,000 electronic devices or systems if Your Project Content provides
-the user interface or primary functionality of such electronic device or system
-without a separate license from Unity. This restriction does not prevent you
-from distributing Your Project Content pre-installed on personal computers and
-consumer electronic devices such as mobile phones, tablets, televisions or set
-top boxes as long as Your Project Content does not provide the user interface or
-primary functionality of such device.
-
-Gambling Restrictions
-
-You may not distribute or publish any of Your Project Content in connection with
-any Gambling Activities without a separate license from Unity.
-
-UNITY SOFTWARE TERMS
+  
+**Unity Software Terms**
 
 Your use of the Unity Software is subject to these Additional Terms (the
 “**Software Terms**”), which supplement and incorporate the [Unity Terms of
-Service](https://web.archive.org/web/20160709184431/http:/unity3d.com:80/legal/terms-of-service).
- By downloading, installing or using the Unity Software in any manner, you
-represent and affirm that you have read, understand and agree to be legally
-bound by and comply with these Software Terms.  If you do not agree with these
-Software Terms, you are not authorized to use the Unity Software in any manner.
+Service](https://unity3d.com/legal/terms-of-service).  By downloading,
+installing or using the Unity Software in any manner, you represent and affirm
+that you have read, understand and agree to be legally bound by and comply with
+these Software Terms.  If you do not agree with these Software Terms, you are
+not authorized to use the Unity Software in any manner.
 
-UNITY PERSONAL AND UNITY PLUS
+  
+**Unity Personal and Unity Plus**
 
 If you are accepting these Software Terms for use of Unity Personal, you
 represent and warrant that:
@@ -199,24 +73,23 @@ revenue estimate data.
 Unity Personal users may be required to complete a user survey in order to
 activate the Unity Software.
 
-1. RIGHTS TO USE THE UNITY SOFTWARE.
+**1. Rights to use the Unity Software.**
 
 1.  *Use Rights*. Conditioned upon your compliance with the terms and conditions
     of this Agreement and payment of all applicable subscription fees, Unity
-    grants you a non-exclusive, non-transferable, royalty-free license during
-    the applicable term: (a) to install and execute the executable form of the
-    Unity Software, solely for internal use by a single person to develop Your
-    Project Content during the applicable term; and (b) if you are using a
-    version of the Unity Software other than an educational version, to
-    distribute the runtime portion of the Unity Software, on a royalty-free
-    basis, solely as embedded or incorporated into Your Project Content and
-    solely to third parties to whom you license or sell Your Project Content
-    pursuant to an agreement that is no less protective of Unity and its
-    licensors as this Agreement. You may not sublicense the rights granted under
-    clause 1.1(a), but you may sublicense the rights granted under 1.1(b) solely
-    to third parties to whom you license or sell Your Project Content to act as
-    distributors thereof pursuant to an agreement no less protective of Unity
-    and its licensors as this Agreement.
+    grants you a non-exclusive, non-transferable, royalty-free license: (a) to
+    install and execute the executable form of the Unity Software, solely for
+    internal use by a single person to develop Your Project Content during the
+    applicable term; and (b) if you are using a version of the Unity Software
+    other than an educational version, to distribute the runtime portion of the
+    Unity Software, on a royalty-free basis, solely as embedded or incorporated
+    into Your Project Content and solely to third parties to whom you license or
+    sell Your Project Content pursuant to an agreement that is no less
+    protective of Unity and its licensors as this Agreement. You may not
+    sublicense the rights granted under clause 1.1(a), but you may sublicense
+    the rights granted under 1.1(b) solely to third parties to whom you license
+    or sell Your Project Content to act as distributors thereof pursuant to an
+    agreement no less protective of Unity and its licensors as this Agreement.
 
 2.  *Copies of Unity Products*. You may install the Unity Software on both a
     primary and a secondary computer or operating system, solely for your
@@ -240,7 +113,8 @@ activate the Unity Software.
     reference. You agree that you have reviewed and accepted those terms and
     that your use of the Unity Software will be deemed acceptance thereof.
 
-2. RESTRICTIONS.
+  
+**2. Restrictions.**
 
 1.  *Unity Software Tier Restrictions*. You acknowledge and agree that as an
     express condition to the rights granted under Section 1, you are not
@@ -318,27 +192,29 @@ activate the Unity Software.
     performance of Your Project Content or any editor extension to the Unity
     Software.
 
-3. CONSENT TO DATA COLLECTION; PRIVACY POLICY OBLIGATIONS.
+  
+**3. Consent to Data Collection; Privacy Policy Obligations.**
 
 1.  You acknowledge and accept [Unity's privacy
-    policy.](https://web.archive.org/web/20160709184431/http:/unity3d.com:80/legal/privacy-policy) You
-    agree that the Unity Software (including the Unity runtime in Your Project
-    Content) may send data to Unity to: (a) check for Unity Software updates;
-    (b) provide aggregated usage statistics of your use of the Unity Software
-    and the use of Your Project Content by end users; (c) provide optional
-    Developer Services; and (d) validate seats in order to prevent unauthorized
-    use. You acknowledge and agree that Unity may deliver messages and contact
-    you about the Unity Software and other Unity product and service offerings.
+    policy.](https://unity3d.com/legal/privacy-policy) You agree that the Unity
+    Software (including the Unity runtime in Your Project Content) may send data
+    to Unity to: (a) check for Unity Software updates; (b) provide aggregated
+    usage statistics of your use of the Unity Software and the use of Your
+    Project Content by end users; (c) provide optional Developer Services; and
+    (d) validate seats in order to prevent unauthorized use. You acknowledge and
+    agree that Unity may deliver messages and contact you about the Unity
+    Software and other Unity product and service offerings.
 
 2.  You agree to distribute Your Project Content with a privacy policy
     explaining the data you collect through Your Project Content and how you
     collect, use, share, and protect it; and to include a disclosure that Unity
     is your service provider and collects certain data from Your Project
     Content, along with a link to [Unity's privacy
-    policy](https://web.archive.org/web/20160709184431/http:/unity3d.com:80/legal/privacy-policy),
-    which may be updated from time to time.
+    policy](https://unity3d.com/legal/privacy-policy), which may be updated from
+    time to time.
 
-4. SUPPORT.
+  
+**4. Support.**
 
 You may access the online forums and the Unity Answers knowledge base through
 the Site. You may also email support\@unity3d.com for assistance with your
@@ -347,18 +223,26 @@ described on the Unity website. You acknowledge and agree that Unity has no
 obligation under this Agreement to provide patches, updates, new releases or new
 versions of the Unity Software.
 
-5. TERM.
+**5. Term.**
 
 Subscription based seats for Unity Pro and Unity Plus will remain in effect for
-the initial subscription period, and thereafter such seat will automatically
-renew on a month to month basis at the then-current list price, unless you renew
-the subscription for a new subscription term or terminate and cancel it as
-described on the Site. Paid in full, perpetual seats will remain in effect
-unless earlier terminated in accordance with the Agreement. Upon termination,
-you must at Unity’s option either promptly delete and destroy or return to Unity
-all copies of the Unity Software in your possession or control.
+the initial subscription period (which has a minimum commitment of 12 months),
+and thereafter such seat will automatically renew on a month-to-month basis at
+the then-current list price, unless you renew the subscription for a new
+subscription term or terminate and cancel it as described on the Site. For
+clarity, subscription based seats for Unity Pro and Unity Plus are not
+cancelable during the applicable subscription term and are non-refundable. Upon
+termination, you must at Unity’s option either promptly delete and destroy or
+return to Unity all copies of the Unity Software in your possession or control;
+however, if you have subscribed to use a seat of the Unity Software for the
+prior twenty-four (24) consecutive months, you may continue to use the
+then-current version of the Unity Software for that seat after the subscription
+term.
 
-6. U.S. GOVERNMENT RIGHTS.
+Paid in full, perpetual seats will remain in effect unless earlier terminated in
+accordance with the Agreement.
+
+**6. U.S. Government Rights.**
 
 The Unity Software and computer software documentation (“**Documentation**”) are
 “commercial items” as that term is defined in the Federal Acquisition Regulation
@@ -367,23 +251,24 @@ computer software documentation,” respectively, as such terms are used in FAR
 12.212 and DFARS 227.7202.If acquired by or on behalf of a civilian agency, the
 U.S. Government acquires or will acquire the Unity Software and/or Documentation
 and other technical data subject to the terms of this Agreement as required in
-48 C.F.R. 12.212 (Computer Unity Software) and 12.211 (Technical Data) of the
-FAR and its successors. If acquired by or on behalf of any agency within the
-Department of Defense (“DOD”), the U.S. Government acquires or will acquire the
-Unity Software and/or Documentation subject to the terms of this Agreement as
+48 C.F.R. 12.212 (Computer Software) and 12.211 (Technical Data) of the FAR and
+its successors. If acquired by or on behalf of any agency within the Department
+of Defense (“DOD”), the U.S. Government acquires or will acquire the Unity
+Software and/or Documentation subject to the terms of this Agreement as
 specified in 48 C.F.R. 227.7202-3 of the DOD FAR Supplement (“DFARS”) and its
 successors. This U.S. Government Rights clause is in lieu of, and supersedes,
 any other FAR, DFARS, or other clause or provision that addresses Government
 rights in computer software or technical data.
 
-7. EXPORT LAW.
+  
+**7. Export Law.**
 
 You agree to comply fully with all export laws and regulations to ensure that
 neither the Unity Software nor any technical data related thereto nor any direct
 product thereof are exported or re-exported directly or indirectly in violation
 of, or used for any purposes prohibited by, such laws and regulations.
 
-8. DEFINITIONS.
+**8. Definitions.**
 
 1.  “**Commercial Entity**” means any company, corporation, limited liability
     company, general partnership, limited partnership, limited liability
