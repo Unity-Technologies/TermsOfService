@@ -1,89 +1,91 @@
 Unity Software Additional Terms
+-------------------------------
 
 (Unity Pro, Unity Plus and Unity Personal)
 ------------------------------------------
 
-**Last Updated December 5, 2018**
+**Last Updated January 16, 2018. Applies to Unity 2018.3 and later versions,
+subject to Section 8 below.**
 
-Your use of the Unity Software is subject to these Additional Terms (the
-“**Software Terms**”), which supplement and are incorporated into the [Unity
-Terms of Service](https://unity3d.com/legal/terms-of-service).  By downloading,
+**Your use of the Unity Software is subject to these Additional Terms (the
+“Software Terms”), which supplement and are incorporated into the** [Unity Terms
+of Service](https://unity3d.com/legal/terms-of-service)**. By downloading,
 installing or using the Unity Software in any manner, you represent and affirm
 that you have read, understand and agree to be legally bound by and comply with
-these Software Terms.  If you do not agree with these Software Terms, you are
-not authorized to use the Unity Software in any manner.
+these Software Terms. If you do not agree with these Software Terms, you are not
+authorized to use the Unity Software in any manner.**
 
 Tier Eligibility
 ----------------
 
-You and everyone using the Unity Software on your behalf must be Tier Eligible
-at all times.  “**Tier Eligible**” means that your Total Finances cannot exceed
-the defined Financial Thresholds for the tier of Unity Software you (or those
-providing services to you) are using.  Tier Eligibility is measured for the most
-recent twelve (12) month period.  If you are mid-project, and your Total
-Finances grow to exceed the Financial Threshold of the Unity Software tier you
-are using, you do not need to start from scratch - you can simply upgrade your
-license and continue working. How we measure your Total Finances varies based on
-who you are.  Financial Thresholds are shown in US currency and your Total
-Finances will be converted to US currency to determine your Tier Eligibility. 
+**You and everyone using the Unity Software on your behalf must be Tier Eligible
+at all times. “Tier Eligible” means that your Total Finances cannot exceed the
+defined Financial Thresholds for the tier of Unity Software you (or those
+providing services to you) are using. Tier Eligibility is measured for the most
+recent twelve (12) month period. If you are mid-project, and your Total Finances
+grow to exceed the Financial Threshold of the Unity Software tier you are using,
+you do not need to start from scratch - you can simply upgrade your license and
+continue working. How we measure your Total Finances varies based on who you
+are. Financial Thresholds are shown in US currency and your Total Finances will
+be converted to US currency to determine your Tier Eligibility.**
 
-### Total Finances are measured like this: 
+### Total Finances are measured like this: 
 
--   if you are a Legal Entity using the Unity Software (other than to provide
-    services to someone else), your Total Finances are your gross revenues
-    and/or funding (no matter what the source), or, if you are a Not-for-Profit
-    Entity, your budget for the entire entity (not just the department using the
-    Software), 
+**· if you are a Legal Entity using the Unity Software (other than to provide
+services to someone else), your Total Finances are your gross revenues and/or
+funding (no matter what the source), or, if you are a Not-for-Profit Entity,
+your budget for the entire entity (not just the department using the
+Software),**
 
--   If you are an individual or a Legal Entity providing services to a third
-    party, your Total Finances is deemed to be your customer or client’s Total
-    Finances, and
+**· If you are an individual or a Legal Entity providing services to a third
+party, your Total Finances is deemed to be your customer or client’s Total
+Finances, and**
 
--   if you are an individual using the Unity Software, but not providing
-    services to a third party, your Total Finances are the amount generated in
-    connection with your use of the Unity Software. In this case, your Total
-    Finances would not include amounts you generate from other work (for
-    example, if your day job is as a zookeeper). 
+**· if you are an individual using the Unity Software, but not providing
+services to a third party, your Total Finances are the amount generated in
+connection with your use of the Unity Software. In this case, your Total
+Finances would not include amounts you generate from other work (for example, if
+your day job is as a zookeeper).**
 
-By using the Unity Software, you represent and warrant that you are Tier
+**By using the Unity Software, you represent and warrant that you are Tier
 Eligible to use the tier of Unity Software you are using and those being used on
-your behalf.  You understand that it is your responsibility to maintain complete
+your behalf. You understand that it is your responsibility to maintain complete
 records establishing your Tier Eligibility and you bear the burden of proving
-your Tier Eligibility if we ask.    
+your Tier Eligibility if we ask.**
 
 ### Financial Thresholds for Unity Personal, Unity Plus and Unity Pro:
 
--   The Financial Threshold for Unity Personal is US \$100,000 for the most
-    recent twelve (12) month period.  To be Tier Eligible to use Unity Personal,
-    your Total Finances may not exceed US \$100,000.  If your Total Finances
-    exceed US \$100,000 you may not use Unity Personal at all, even for internal
-    projects or prototyping.   
+**· The Financial Threshold for Unity Personal is US \$100,000 for the most
+recent twelve (12) month period. To be Tier Eligible to use Unity Personal, your
+Total Finances may not exceed US \$100,000. If your Total Finances exceed US
+\$100,000 you may not use Unity Personal at all, even for internal projects or
+prototyping.**
 
--   The Financial Threshold for Unity Plus is US \$ 199,000 for the most recent
-    twelve (12) month period. To be Tier Eligible to use Unity Plus, your Total
-    Finances may not exceed US \$199,000.  If your Total Finances exceed
-    \$199,000, you may only use Unity Pro.
+**· The Financial Threshold for Unity Plus is US \$ 199,000 for the most recent
+twelve (12) month period. To be Tier Eligible to use Unity Plus, your Total
+Finances may not exceed US \$199,000. If your Total Finances exceed \$199,000,
+you may only use Unity Pro.**
 
--   There is no Financial Threshold for Unity Pro. You do not need to be Tier
-    Eligible to use Unity Pro; Unity Pro may be used by anyone who pays the
-    applicable subscription fees.
+**· There is no Financial Threshold for Unity Pro. You do not need to be Tier
+Eligible to use Unity Pro; Unity Pro may be used by anyone who pays the
+applicable subscription fees.**
 
-### No Mixing or Co-mingling: 
+### No Mixing or Co-mingling: 
 
-Unity Software tiers with different Financial Thresholds may not be used at the
-same time by one entity or individual or for or on behalf of one entity or
-individual.  You must upgrade all licenses if your Total Finances exceed a
+**Unity Software tiers with different Financial Thresholds may not be used at
+the same time by one entity or individual or for or on behalf of one entity or
+individual. You must upgrade all licenses if your Total Finances exceed a
 Financial Threshold. Unity reserves the right to disable your use of the Unity
 Software if you attempt to use two tiers simultaneously. If you are using Unity
 Pro and want to provide services to a customer or client who is Tier Eligible to
-use Unity Plus, contact us and we will give you an exception.
+use Unity Plus, contact us and we will give you an exception.**
 
-Unity may monitor your compliance with and enforce these restrictions and
+**Unity may monitor your compliance with and enforce these restrictions and
 requirements, including but not limited to monitoring the number of downloads of
-your Project Content, and any available revenue estimate data.
+your Project Content, and any available revenue estimate data.**
 
-Unity Personal users may be required to complete a user survey in order to
-activate the Unity Software.
+**Unity Personal users may be required to complete a user survey in order to
+activate the Unity Software.**
 
 ## 1. Rights to use the Unity Software.
 ------------------------------------
@@ -91,38 +93,47 @@ activate the Unity Software.
 ### 1.1 Use Rights. 
 
 Conditioned upon your compliance with the terms and conditions of this Agreement
-and payment of all applicable subscription fees, Unity grants you (or your
-Designated User, defined below) a non-exclusive, non-transferable, royalty-free
-license: (a) to install and execute the executable form of the Unity Software,
-solely for internal use by a single person to develop your Project Content
-during the applicable term; and (b) if you are using a version of the Unity
+and payment of all applicable subscription fees, Unity grants you a
+non-exclusive, non-transferable, royalty-free license: (a) to install and
+execute the executable form of the authoring environment provided by the Unity
+Software (the “**Unity Editor**”), solely for internal use by a single person to
+develop your Project Content during the applicable term (this license is called
+the “**Unity Editor License**”); and (b) if you are using a version of the Unity
 Software other than an educational version, to distribute the runtime portion of
-the Unity Software, on a royalty-free basis, solely as embedded or incorporated
-into your Project Content and solely to third parties to whom you license or
-sell your Project Content pursuant to an agreement that is no less protective of
-Unity and its licensors as this Agreement. If you are acting on behalf of a
-Legal Entity, you may allow affiliated entities or third party contractors who
-are testing, developing and operating your Project Content on your behalf (each,
-a “Designated User”), to exercise your rights under 1.1(a) and 1.1(b) on your
-behalf, in which case you remain responsible for such Designated Users’
-compliance with the terms and conditions of the Agreement or any breach thereof,
-including compliance with the restrictions above. Additionally, you may allow
-distributors who are licensing or selling your Project Content pursuant to an
-agreement that is no less protective of Unity and its licensors as this
-Agreement to exercise your rights under 1.1(b) on your behalf.  You may not
-otherwise allow third parties to use the rights granted under clauses 1.1(a) and
-1.1(b). 
+the Unity Software intended for distribution as an integrated part of your
+Project Content (the “**Unity Runtime**”), solely as embedded or incorporated
+into your Project Content, solely to third parties to whom you license or sell
+your Project Content or who provide you with Third Party Services, in each case
+pursuant to an agreement that is no less protective of Unity and its licensors
+than this Agreement (the “**Unity Runtime License**”). If you are a Legal
+Entity, you may allow affiliated entities or third party contractors who are
+testing, developing and operating your Project Content on your behalf (each, a
+“**Designated User**”), to exercise your rights under 1.1(a) (Unity Editor
+License) and 1.1(b) (Unity Runtime License) on your behalf. You may allow
+distributors who are licensing or selling your Project Content and Third Party
+Service providers providing you a Third Party Service to exercise your rights
+under 1.1(b) (Unity Runtime License) on your behalf. In all cases you remain
+responsible for your distributor’s, Third Party Service provider’s and
+Designated Users’ compliance with the terms and conditions of the Agreement or
+any breach thereof.  All use of the Unity Software, including any third party
+exercise of your rights under this paragraph, is subject to this Agreement,
+including any restrictions set forth below, and you may not otherwise allow
+third parties to use the rights granted in this Agreement.
 
 ### 1.2 Copies of Unity Products. 
 
-You (and your Designated Users) may install the Unity Software on both a primary
+You (and your Designated Users) may install the Unity Editor on both a primary
 and a secondary computer or operating system, solely for your convenience, but
-only for use by a single person. You may make a single copy of the Unity
-Software solely for backup or archival purposes. For the sake of clarity, you
-(or your Designated User) may only use one installation at any given time. Unity
-may in its sole discretion authorize you to install the Unity Software on
-additional computers or operating systems upon deactivation of the Unity
-Software installed on existing computers.
+only for use by a single person. You may make a single copy of the Unity Editor
+solely for backup or archival purposes. For the sake of clarity, you (or your
+Designated User) may only use one installation at any given time. Unity may in
+its sole discretion authorize you to install the Unity Editor on additional
+computers or operating systems upon deactivation of the Unity Editor installed
+on existing computers. For clarity, in no event may Third Party Service
+providers directly or indirectly distribute, run or use the Unity Editor so that
+it is executed on or simulated by the cloud or a remote server and transmitted
+over the Internet or other network except where they are acting on your behalf
+as a Designated User in accordance with this Section 1.2.
 
 ### 1.3 Unity Console Add-on Developer Requirements. 
 
@@ -165,10 +176,10 @@ of your Project Content.
 ### 2.2 Educational Product Restrictions. 
 
 If you are using an educational version of the Unity Software, your right to use
-the Unity Software and distribute the runtime portion of the Unity Software in
-your Project Content is limited to educational, non-commercial purposes.  Unity
-may include a watermark designating that your Project Content was created using
-the education version of the Unity Software.  
+the Unity Editor and distribute the Unity Runtime in your Project Content is
+limited to educational, non-commercial purposes.  Unity may include a watermark
+designating that your Project Content was created using the education version of
+the Unity Software.  
 
 ### 2.3 Embedded Software Restriction. 
 
@@ -181,31 +192,21 @@ consumer electronic devices such as mobile phones, tablets, televisions or set
 top boxes as long as your Project Content does not provide the user interface or
 primary functionality of such device.
 
-### 2.4 Streaming and Cloud Gaming Restrictions. 
+### 2.4 Working with Third Party Service Providers. 
 
-You may not directly or indirectly distribute the Unity Software, including the
-runtime portion of the Unity Software (the “**Unity Runtime**”), or your Project
-Content (if it incorporates the Unity Runtime) by means of streaming or
-broadcasting so that any portion of the Unity Software is primarily executed on
-or simulated by the cloud or a remote server and transmitted over the Internet
-or other network to end user devices without a separate license or authorization
-from Unity. Without limiting the foregoing, you may not use a managed service
-running on cloud infrastructure (a “**Managed Service**”) or a specific
-integration of a binary add-on (for example, a plugin or SDK) or source code to
-be integrated in the Unity Software or Your Project Content incorporating the
-Unity Runtime (an “**SDK Integration**”) to install or execute the Unity Runtime
-on the cloud or a remote server, unless such use of the Managed Service or SDK
-Integration has been specifically authorized by Unity.  Additionally, you may
-not integrate the Unity Runtime with a Managed Service or  SDK Integration and
-offer that integration to third parties for the purpose of installing or using
-the Unity Runtime on the cloud or a remote server. For a list of Unity
-authorized streaming platforms, Managed Services and SDK Integrations,
-click here.This restriction does not prevent end users from remotely accessing
-your Project Content from an end user device that is running on another end user
-device.  You may not use a third party to directly or indirectly distribute or
-make available, stream, broadcast (through simulation or otherwise) any portion
-of the Unity Software unless that third party is authorized by Unity to provide
-such services.
+Unity developers are free to use any service offered to Unity developers (each,
+a “**Third Party Service**”). Unity does not have any obligation to provide
+support for any Third Party Service provider or Third Party Service under this
+Agreement.
+
+Third Party Service providers may not, without Unity’s express written
+permission: (1) use a stylized version of any Unity name, trademark, logos,
+images or product icons, or other Unity-owned graphic symbols; (2) use a product
+name confusingly similar to a Unity product or that could be construed by Unity
+developers as being a Unity product or service; or (3) create or use any
+marketing materials that suggest an affiliation with, or endorsement by, Unity.
+All use of Unity’s trademarks must comply with [Unity’s Trademark
+Guidelines](https://unity3d.com/legal/branding_trademarks).
 
 ### 2.5 Gambling Restriction. 
 
@@ -250,7 +251,7 @@ your Project Content or any editor extension to the Unity Software.
 ### 3.1 Data Collection
 
 You acknowledge and accept Unity's privacy policy. You agree that the Unity
-Software (including the Unity runtime in your Project Content) may send data to
+Software (including the Unity Runtime in your Project Content) may send data to
 Unity to: (a) check for Unity Software updates; (b) provide aggregated usage
 statistics of your use of the Unity Software and the use of your Project Content
 by end users; (c) provide optional Developer Services; and (d) validate seats in
@@ -319,51 +320,91 @@ neither the Unity Software nor any technical data related thereto nor any direct
 product thereof are exported or re-exported directly or indirectly in violation
 of, or used for any purposes prohibited by, such laws and regulations.
 
-## 8. Definitions.
+## 8. Modifications.
+-----------------
+
+Unity may update these Unity Software Additional Terms at any time for any
+reason and without notice (the “**Updated Terms**”) and those Updated Terms will
+apply to the most recent current-year version of the Unity Software, provided
+that, if the Updated Terms adversely impact your rights, you may elect to
+continue to use any current-year versions of the Unity Software (e.g., 2018.x
+and 2018.y and any Long Term Supported (LTS) versions for that current-year
+release) according to the terms that applied just prior to the Updated Terms
+(the “**Prior Terms**”). The Updated Terms will then not apply to your use of
+those current-year versions unless and until you update to a subsequent year
+version of the Unity Software (e.g. from 2019.4 to 2020.1). If material
+modifications are made to these Terms, Unity will endeavor to notify you of the
+modification. If a modification is required to comply with applicable law, the
+modification will apply notwithstanding this section. Except as explicitly set
+forth in this paragraph, your use of any new version or release of the Unity
+Software will be subject to the Updated Terms applicable to that release or
+version. You understand that it is your responsibility to maintain complete
+records establishing your entitlement to Prior Terms.
+
+## 9. Definitions.
 ---------------
 
-8.1 “**Financial Thresholds**” has the meaning set forth in the “Tier
+9.1 “**Designated User**” has the meaning set forth in Section 1.1 (Use Rights).
+
+9.2 “**Financial Thresholds**” has the meaning set forth in the “Tier
 Eligibility” section above in these Software Terms.
 
-8.2 “**Gambling Activities**” means any gambling product or service offered in
+9.3 “**Gambling Activities**” means any gambling product or service offered in
 any market or application that is regulated by any local, state or national
 authority and requires a gambling license.
 
-8.3 “**Legal Entity**” means any company, corporation, limited liability
+9.4 “**Legal Entity**” means any company, corporation, limited liability
 company, general partnership, limited partnership, limited liability
 partnership, proprietorship, joint venture or other form of business
 organization, including any Not-for-Profit Entity.
 
-8.4 “**Not-for-Profit Entity**” means any government, non-profit, educational or
+9.5 “**Not-for-Profit Entity**” means any government, non-profit, educational or
 academic institution, including but not limited to any primary or secondary
 school, vocational school, college or university.
 
-8.5 “**Project Content**” means games, applications, software or other content
+9.6 “**Prior Terms**” has the meaning set forth in Section 8 (Modifications).
+
+9.7 “**Project Content**” means games, applications, software or other content
 that you develop with the Unity Software.
 
-8.6 "**Third Party Software**" means software developed by third parties that is
+9.8 “**Third Party Service**” has the meaning set forth in Section 2.4 (Working
+with Third Party Service Providers).
+
+9.9 "**Third Party Software**" means software developed by third parties that is
 furnished with or as part of the Unity Software.
 
-8.7 “**Tier Eligible**” has the meaning set forth in the “Tier Eligibility”
+9.10 “**Tier Eligible**” has the meaning set forth in the “Tier Eligibility”
 section above in these Software Terms.
 
-8.8 “**Total Finances**” has the meaning set forth in the “Tier Eligibility”
+9.11 “**Total Finances**” has the meaning set forth in the “Tier Eligibility”
 section above in these Software Terms.
 
-8.9 “**Unity Console Add-on Developer Requirements**” means the applicable
+9.12 “**Unity Console Add-on Developer Requirements**” means the applicable
 registration process and terms a developer must follow and accept to become a
 registered developer with the applicable console platform as set forth or linked
 on the Unity website. Software that is available for free to individuals and
 Legal Entities who are Tier Eligible to use Unity Personal.
 
-8.11 “**Unity Plus**” means Unity Plus Subscription, a premium version of the
+9.13 “**Unity Editor**” has the meaning set forth in Section 1.1 (Use Rights).
+
+9.14 “**Unity Editor License**” has the meaning set forth in Section 1.1 (Use
+Rights).
+
+9.15 “**Unity Plus**” means Unity Plus Subscription, a premium version of the
 Unity Software available to individuals and Legal Entities who are Tier Eligible
 to use Unity Plus.
 
-8.12 “**Unity Pro**” means Unity Professional Subscription, the premium version
+9.16 “**Unity Pro**” means Unity Professional Subscription, the premium version
 of the Unity Software available to everyone, including individuals and Legal
 Entities who are not Tier Eligible to use Unity Personal or Unity Plus.
 
-8.13 “**Unity Software**” means all versions and updates of all the downloadable
+9.17 “**Unity Runtime**” has the meaning set forth in Section 1.1 (Use Rights).
+
+9.18 “**Unity Runtime License**” has the meaning set forth in Section 1.1 (Use
+Rights).
+
+9.19 “**Unity Software**” means all versions and updates of all the downloadable
 Unity Pro, Unity Plus and Unity Personal software products identified on Unity’s
 website.
+
+9.20 “**Updated Terms**” has the meaning set forth in Section 8 (Modifications).
