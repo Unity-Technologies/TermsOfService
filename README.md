@@ -6,7 +6,9 @@ From time to time, Unity may update these software terms and other legal terms, 
 
 ## Revisions
 ### Unity Software Additional Terms
-* [January 16, 2019 - Current](Unity%20Software%20Additional%20Terms.md)
+* [October 13, 2022 - Current](Unity%20Software%20Additional%20Terms.md)
+* [March 10, 2022](../87d7090/Unity%20Software%20Additional%20Terms.md)
+* [January 16, 2019](../243dda2/Unity%20Software%20Additional%20Terms.md)
 * [December 05, 2018](../08f7fe2/Unity%20Software%20Additional%20Terms.md)
 * [February 21, 2018](../9246e9c/Unity%20Software%20Additional%20Terms.md)
 * [November 04, 2016](../45e7734/Unity%20Software%20Additional%20Terms.md)
