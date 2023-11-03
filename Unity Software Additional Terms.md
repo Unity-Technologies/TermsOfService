@@ -1,10 +1,12 @@
 # **Unity Editor Software Terms**
 
-Last Updated:  April 3, 2023
+Last Updated:  November 6, 2023
 
-What’s changed: We have posted an update to our Unity Editor Software Terms to, among other things, provide for our Industry Offering. We’ve also updated other sections, including those relating to data collection and modification of terms. For further information, please review our FAQ [here](https://unity.com/legal/editor-terms-of-service/software/faq). Please review the full text of the updated Editor Software Terms, as well as our Terms of Service, carefully. The prior version of the Software Terms is available [here](https://unity.com/legal/terms-of-service/software-legacy).
+What’s changed: We have posted an update to our Unity Editor Software Terms (i) to clarify which versions of the Unity Software the Unity Runtime Fee applies to, and (ii) to specify that if we update the Editor Software Terms, you can elect to remain on the prior accepted version of such terms as long as you keep using that version of Unity. Please review the full text of the updated Editor Software Terms, as well as our Terms of Service, carefully. The prior version of the Software Terms is available [here](https://unity.com/legal/terms-of-service/software-legacy).
 
 These terms (the “Software Terms”) govern your use of the Unity Editor, including pursuant to a Unity Plan, and supplement the Unity Terms of Service.   
+
+Provided that you comply with Tier Eligibility, if Unity updates the Software Terms (the "Updated Terms") impacting your rights, you may elect to continue to use your current version of the Unity Software subject to the prior accepted Software Terms and Terms of Service (the "Prior Terms") unless such Updated Terms are required by law. If you elect to update to a later named version of the Unity Software, the most current version of the Updated Terms shall apply and be deemed accepted (for clarity, the Runtime Fee does not apply to Prior Released Versions; see Section 2.2). For the avoidance of doubt, it shall not be considered an update to a later named version if you update to another version released within that named version (e.g. 2022.1 to 2022.2). You understand that it is your responsibility to maintain complete records establishing your entitlement to Prior Terms.
 
 1. Unity Software Tier Eligibility
 
@@ -50,6 +52,8 @@ You may not make available all or any part of the Unity Editor or its functional
 2.2 Unity Runtime
 
 Subject to payment of applicable fees, if any, you may distribute the Unity Runtime as an integrated part of your Projects, solely as embedded or incorporated into your Projects, and solely to third parties to whom you license or sell your Projects or who provide you with services, in each case pursuant to an agreement that is no less protective of Unity and its licensors and its service providers than this Agreement.
+
+The Unity runtime fee as detailed at https://unity.com/pricing-updates (the “Runtime Fee”) does not apply to any Projects created with any prior released Unity versions: 2022 LTS, 2021 LTS, 2020 LTS, or any earlier versions (the “Prior Released Versions”) unless you upgrade a qualifying Project (i.e. a game meeting the Runtime Fee threshold criteria) to the next major release of Unity Software releasing in 2024, currently referred to as the 2023 LTS, and any future associated betas, Evaluation Versions, ‘Tech Streams’, or LTS releases. For clarity, Unity 2022 LTS will be officially supported at least until May 30 2025 for Pro customers and May 30 2026 for Enterprise customers. For further clarity, if you use the Prior Released Versions of Unity Editor, the applicable prices and fees (i.e. subscription/seat price) for such use may change in accordance with the Unity Terms of Service; provided, however, Unity will not impose any additional fees, Runtime Fee, or a revenue share in addition to the subscription and related costs in effect as set forth in the Prior Terms for Prior Released Versions.
 
 2.2.1 Industry
 
