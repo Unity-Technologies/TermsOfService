@@ -1,12 +1,14 @@
 # **Unity Editor Software Terms**
 
-Last Updated:  November 6, 2023
+Last Updated:  October 10, 2024
 
-What’s changed: We have posted an update to our Unity Editor Software Terms (i) to clarify which versions of the Unity Software the Unity Runtime Fee applies to, and (ii) to specify that if we update the Editor Software Terms, you can elect to remain on the prior accepted version of such terms as long as you keep using that version of Unity. Please review the full text of the updated Editor Software Terms, as well as our Terms of Service, carefully. The prior version of the Software Terms is available [here](https://unity.com/legal/terms-of-service/software-legacy).
+What’s changed: As announced in [our September 12th, 2024 blog post](https://unity.com/blog/unity-is-canceling-the-runtime-fee), the Unity Runtime Fee has been canceled for our games customers. As part of that, the Unity Runtime Fee has been removed from our Unity Editor Software Terms. Additionally as noted in the blog post, tier eligibility has also been updated in our terms (for example, Unity Personal will remain free, and we’ll be doubling the current revenue and funding ceiling from $100,000 to $200,000 USD).  Please review the full text of the updated Editor Software Terms, as well as our Terms of Service. Please review our Blog [here](https://unity.com/blog/terms-update-runtime-fee-cancellation). The prior version of the Software Terms is available [here](https://unity.com/legal/terms-of-service/software-legacy).
+
+Please note: As we’ve communicated previously, if we update the Editor Software Terms, you can choose to continue using the prior accepted version of the terms as long as you keep using that named version of Unity Editor (e.g., an upgrade from Unity 6 to Unity 6.1 is the same named version). See below for details.
 
 These terms (the “Software Terms”) govern your use of the Unity Editor, including pursuant to a Unity Plan, and supplement the Unity Terms of Service.   
 
-Provided that you comply with Tier Eligibility, if Unity updates the Software Terms (the "Updated Terms") impacting your rights, you may elect to continue to use your current version of the Unity Software subject to the prior accepted Software Terms and Terms of Service (the "Prior Terms") unless such Updated Terms are required by law. If you elect to update to a later named version of the Unity Software, the most current version of the Updated Terms shall apply and be deemed accepted (for clarity, the Runtime Fee does not apply to Prior Released Versions; see Section 2.2). For the avoidance of doubt, it shall not be considered an update to a later named version if you update to another version released within that named version (e.g. 2022.1 to 2022.2). You understand that it is your responsibility to maintain complete records establishing your entitlement to Prior Terms.
+Provided that you comply with Tier Eligibility, if Unity updates the Software Terms (the "Updated Terms") impacting your rights, you may elect to continue to use your current version of the Unity Software subject to the prior accepted Software Terms and Terms of Service (the "Prior Terms") unless such Updated Terms are required by law. If you elect to update to a later named version of the Unity Software, the most current version of the Updated Terms shall apply and be deemed accepted. For the avoidance of doubt, it shall not be considered an update to a later named version if you update to another version released within that named version (e.g., Unity 6 to Unity 6.1). You understand that it is your responsibility to maintain complete records establishing your entitlement to Prior Terms.
 
 1. Unity Software Tier Eligibility
 
@@ -28,10 +30,11 @@ Financial Thresholds:
 
 
 
-* The Financial Threshold for Unity Personal is US $100,000 for the most recent twelve (12) month period.  To be Tier Eligible to use Unity Personal, your Total Finances may not exceed US $100,000.  If your Total Finances exceed US $100,000 you may not use Unity Personal at all, even for internal projects or prototyping.   
-* The Financial Threshold for Unity Plus is US $200,000 for the most recent twelve (12) month period. To be Tier Eligible to use Unity Plus, your Total Finances may not exceed US $200,000.  If your Total Finances exceed $200,000, you may only use Unity Pro (including pursuant to a Unity Plan that includes Unity Pro).
-* Other than for Industry Customers, there is no Financial Threshold for Unity Pro. Unity Pro may be used by anyone who is not an Industry Customer.
-* The Financial Threshold for Unity Pro for Industry Customers is US $1,000,000 for the most recent twelve (12) month period. If you are an Industry Customer, to be Tier Eligible to use Unity Pro, your Total Finances may not exceed US $1,000,000. If your Total Finances exceed $1,000,000, you may only use the Unity Industry version of the Unity Editor.
+* The Financial Threshold for Unity Personal is $200,000 USD for the most recent twelve (12) month period.  To be Tier Eligible to use Unity Personal, your Total Finances may not exceed $200,000 USD.  If your Total Finances exceed $200,000 USD you may not use Unity Personal at all, even for internal projects or prototyping.   
+* The Financial Threshold for Unity Pro is from $200,001 to $24,999,999 USD for the most recent twelve (12) month period. To be Tier Eligible to use Unity Pro, your Total Finances may not exceed $24,999,999 USD.  If your Total Finances equal or exceed $25,000,000 USD, you may only use Unity Enterprise.
+* The Financial Threshold for Unity Enterprise is $25,000,000 USD and over for the most recent twelve (12) month period. If your Total Finances equal or exceed $25,000,000 USD, you may only use Unity Enterprise.
+* Notwithstanding the foregoing, the Financial Threshold for Industry Customers is $1,000,000 USD for the most recent twelve (12) month period. If your Total Finances exceed $1,000,000 USD, you may only use Unity Industry.
+
 
 For clarity, unless otherwise set forth above, these Financial Thresholds apply whether or not you use the Unity Software as part of a Unity Plan.
 
@@ -39,7 +42,7 @@ By using the Unity Software, you represent and warrant that you are Tier Eligibl
 
 2. Use Rights
 
-The scope and limitations of your right to access and use the Unity Editor and Unity Runtime Offerings may depend on whether you are an Industry Customer and are as set forth in this Section 2. For clarity, the license grants in Sections 2.1 and 2.2 are primarily for creators creating first-party content (e.g., a game maker making their own games); if that’s not you, rather you’re a service provider, Platform, agency, reseller or otherwise, you may need a separate grant of rights from Unity and/or written authorization. Please reach out to your Unity salesperson for partnership opportunities.
+The scope and limitations of your right to access and use the Unity Editor and Unity Runtime may depend on whether you are an Industry Customer and are as set forth in this Section 2. For clarity, the license grants in Sections 2.1 and 2.2 are primarily for creators creating first-party content (e.g., a game maker making their own games); if that’s not you, rather you’re a service provider, Platform, agency, reseller or otherwise, you may need a separate grant of rights from Unity and/or written authorization. Please reach out to your Unity salesperson for partnership opportunities.
 
 2.1 Unity Editor
 
@@ -53,7 +56,8 @@ You may not make available all or any part of the Unity Editor or its functional
 
 Subject to payment of applicable fees, if any, you may distribute the Unity Runtime as an integrated part of your Projects, solely as embedded or incorporated into your Projects, and solely to third parties to whom you license or sell your Projects or who provide you with services, in each case pursuant to an agreement that is no less protective of Unity and its licensors and its service providers than this Agreement.
 
-The Unity runtime fee as detailed at https://unity.com/pricing-updates (the “Runtime Fee”) does not apply to any Projects created with any prior released Unity versions: 2022 LTS, 2021 LTS, 2020 LTS, or any earlier versions (the “Prior Released Versions”) unless you upgrade a qualifying Project (i.e. a game meeting the Runtime Fee threshold criteria) to the next major release of Unity Software releasing in 2024, currently referred to as the 2023 LTS, and any future associated betas, Evaluation Versions, ‘Tech Streams’, or LTS releases. For clarity, Unity 2022 LTS will be officially supported at least until May 30 2025 for Pro customers and May 30 2026 for Enterprise customers. For further clarity, if you use the Prior Released Versions of Unity Editor, the applicable prices and fees (i.e. subscription/seat price) for such use may change in accordance with the Unity Terms of Service; provided, however, Unity will not impose any additional fees, Runtime Fee, or a revenue share in addition to the subscription and related costs in effect as set forth in the Prior Terms for Prior Released Versions.
+Unity grants you the right to distribute the Unity Runtime without royalty, revenue share, or a runtime fee, for any Projects created with Unity 6 or any earlier versions (the "Prior Released Versions"), provided that you pay any applicable fees (i.e. subscription/seat price) and continue to comply with current Tier Eligibility.  For further clarity, if you use the Prior Released Versions of Unity Editor, the applicable prices and fees (i.e. subscription/seat price) for such use may change in accordance with the Unity Terms of Service; provided, however, Unity will not impose any additional fees, Runtime Fee, or a revenue share in addition to the subscription and related costs in effect as set forth in the Prior Terms for Prior Released Versions.  Additionally, Unity will only apply any price increases or Tier Eligibility updates upon purchase or renewal of your Unity Plan.  
+
 
 2.2.1 Industry
 
@@ -77,7 +81,7 @@ The following applies if you purchase, download, install or use Unity Build Serv
 
 Conditioned upon your compliance with these Software Terms and the Terms, and payment of all applicable subscription fees, Unity grants you a limited, worldwide, non-exclusive, non-transferable, non-sublicensable right during the applicable subscription term to use Unity Build Server to manage the use of the Unity Software, installed on a specified number of concurrent Machines (as permitted by your Unity Build Server subscription), for the sole purpose of generating “builds” of your Projects.
 
-Your Unity Build Server subscription tier (e.g., Unity Pro Build Server) must match the Unity Software subscription tier used to create your Projects (e.g., Unity Pro). You may not use Unity Build Server with the Unity Plus or Unity Personal tiers of the Unity Software.
+Your Unity Build Server subscription tier (e.g., Unity Pro Build Server) must match the Unity Software subscription tier used to create your Projects (e.g., Unity Pro). You may not use Unity Build Server with the Unity Personal tier of the Unity Software.
 
 2.6 HMI Platform Deployment 
 
@@ -149,19 +153,19 @@ You may access the online forums and the Unity Answers knowledge base through th
 
 “Unity EdLab” means the streaming version of Unity Pro applicable to educational institutions as verified by Unity’s third-party partners for educational and/or other non-commercial purposes only.
 
+“Unity Enterprise” means the Unity Plan, which includes a subscription to use the enterprise version of the Unity Software as set forth in the Offering Identification.
+
 “Unity Industry” means the Unity Plan made specifically available to Industry Customers as set forth in the Offering Identification.
 
 “Unity Personal” means the “Unity Personal” version of the Unity Software. Unity Personal is available to individuals and Legal Entities who are Tier Eligible to use Unity Personal. 
 
-“Unity Plus” means the "Unity Plus" Unity Plan, which includes a subscription to use a premium version of the Unity Software. Unity Plus is available to individuals and Legal Entities who are Tier Eligible to use Unity Plus.
-
-“Unity Pro” means the "Unity Pro" Unity Plan, which includes a subscription to use a premium version of the Unity Software.  You do not need to be Tier Eligible to use Unity Pro; Unity Pro may be used by anyone who pays the applicable subscription fees.
+“Unity Pro” means the Unity Plan, which includes a subscription to use a premium version of the Unity Software as set forth in the Offering Identification.
 
 “Unity Runtime” means the runtime portion of the Unity Software intended for distribution.
 
-“Unity Software” means all versions and updates of all the downloadable Unity Pro, Unity Plus and Unity Personal software products identified in the relevant Offering Identification. 
+“Unity Software” means all versions and updates of all the downloadable Unity Pro, Unity Enterprise, Unity Industry, and Unity Personal software products identified in the relevant Offering Identification. 
 
-"Unity Student Plan" means the student version of the "Unity Pro" subscription.  Students who are at least the age at which an individual can consent to the processing of their personal data (e.g., 13 in the United States, 16 in the European Union) and who are currently enrolled in an accredited educational institution, as verified by Unity or Unity's third-party partner, are eligible to use the Unity Student Plan.
+"Unity Student Plan" means the student version of the "Unity Pro" subscription.  Students who are at least the age at which an individual can consent to the processing of their personal data (e.g., 13 in the United States, 16 in the European Union) and who are currently enrolled in an accredited educational institution, as verified by Unity or Unity third-party partner, are eligible to use the Unity Student Plan.
 
 “Unity Supported Platform” means any Platform listed in the “Unity Player System Requirements” section of the System Requirements.  For clarity, “Unity Supported Platforms”: (i) does not include the Platforms, SDKs, APIs, etc., that are distributed separately from Unity Pro, for instance via the Unity Asset Store or by third parties, even if the underlying operating system itself is part of a Unity Supported Platform (i.e., a Unity Supported Platform is a complete Platform, as defined. Herein, not the individual components of a Platform), and (ii) does not automatically include the streaming version of an existing Unity Supported Platform.
 
