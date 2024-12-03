@@ -1,10 +1,8 @@
 # **Unity Editor Software Terms**
 
-Last Updated:  October 10, 2024
+Last Updated:  December 4, 2024
 
-What’s changed: As announced in [our September 12th, 2024 blog post](https://unity.com/blog/unity-is-canceling-the-runtime-fee), the Unity Runtime Fee has been canceled for our games customers. As part of that, the Unity Runtime Fee has been removed from our Unity Editor Software Terms. Additionally as noted in the blog post, tier eligibility has also been updated in our terms (for example, Unity Personal will remain free, and we’ll be doubling the current revenue and funding ceiling from $100,000 to $200,000 USD).  Please review the full text of the updated Editor Software Terms, as well as our Terms of Service. Please review our Blog [here](https://unity.com/blog/terms-update-runtime-fee-cancellation). The prior version of the Software Terms is available [here](https://unity.com/legal/terms-of-service/software-legacy).
-
-Please note: As we’ve communicated previously, if we update the Editor Software Terms, you can choose to continue using the prior accepted version of the terms as long as you keep using that named version of Unity Editor (e.g., an upgrade from Unity 6 to Unity 6.1 is the same named version). See below for details.
+What’s changed: The Unity Student Plan has been updated to allow for commercial use up to 1 million USD for the most recent 12 month period with an eligibility limit of ten cumulative years. You can view the prior version of the Software Terms [here](https://unity.com/legal/terms-of-service/software-legacy).
 
 These terms (the “Software Terms”) govern your use of the Unity Editor, including pursuant to a Unity Plan, and supplement the Unity Terms of Service.   
 
@@ -16,7 +14,7 @@ The Tier Eligibility Requirements set forth below apply to your use of Unity Sof
 
 1.1 Tier Eligibility; Financial Thresholds
 
-You and your Authorized Users, if applicable, must be Tier Eligible at all times to use any Unity Software. “Tier Eligible” means that your Total Finances cannot exceed the defined Financial Thresholds for the tier of Unity Software you (or those providing services to you) are using. Tier Eligibility is measured each date you use the Unity Software for the most recent twelve (12) trailing month period. Immediately upon your Total Finances exceeding the Financial Threshold of the Unity Software tier you are using, you must upgrade your Unity Plan. You may not (i) use Unity Software tiers within different Financial Thresholds at the same time, (ii) have different Authorized Users or members of your Unity Organization use Unity Software tiers within different Financial Thresholds at the same time, and/or (iii) combine or integrate any of your Projects developed with one tier of the Unity Software with any of your Projects developed simultaneously with another tier.  
+You and your Authorized Users, if applicable, must be Tier Eligible at all times to use any Unity Software. “Tier Eligible” means that your Total Finances cannot exceed the defined Financial Thresholds for the tier of Unity Software you (or those providing services to you) are using. For clarity, you do not need to be Tier Eligible to purchase or use a higher tier Offering. Tier Eligibility is measured each date you use the Unity Software for the most recent twelve (12) trailing month period. Immediately upon your Total Finances exceeding the Financial Threshold of the Unity Software tier you are using, you must upgrade your Unity Plan. You may not (i) use Unity Software tiers within different Financial Thresholds at the same time, (ii) have different Authorized Users or members of your Unity Organization use Unity Software tiers within different Financial Thresholds at the same time, and/or (iii) combine or integrate any of your Projects developed with one tier of the Unity Software with any of your Projects developed simultaneously with another tier.
 
 Total Finances are measured as follows:
 
@@ -31,9 +29,10 @@ Financial Thresholds:
 
 
 * The Financial Threshold for Unity Personal is $200,000 USD for the most recent twelve (12) month period.  To be Tier Eligible to use Unity Personal, your Total Finances may not exceed $200,000 USD.  If your Total Finances exceed $200,000 USD you may not use Unity Personal at all, even for internal projects or prototyping.   
-* The Financial Threshold for Unity Pro is from $200,001 to $24,999,999 USD for the most recent twelve (12) month period. To be Tier Eligible to use Unity Pro, your Total Finances may not exceed $24,999,999 USD.  If your Total Finances equal or exceed $25,000,000 USD, you may only use Unity Enterprise.
-* The Financial Threshold for Unity Enterprise is $25,000,000 USD and over for the most recent twelve (12) month period. If your Total Finances equal or exceed $25,000,000 USD, you may only use Unity Enterprise.
+* The Financial Threshold for Unity Pro is from $200,001 USD to $24,999,999 USD for the most recent twelve (12) month period. To be Tier Eligible to use Unity Pro, your Total Finances may not exceed $24,999,999 USD. If your Total Finances equal or exceed $25,000,000 USD, you may only use Unity Enterprise.
+* The Financial Threshold for Unity Enterprise is $25,000,000 USD and over for the most recent twelve (12) month period. If your Total Finances equal or exceed $25,000,000 USD, you may only use the Unity Enterprise.
 * Notwithstanding the foregoing, the Financial Threshold for Industry Customers is $1,000,000 USD for the most recent twelve (12) month period. If your Total Finances exceed $1,000,000 USD, you may only use Unity Industry.
+* The Financial Threshold for Unity Student Plan is $1,000,000 USD for the most recent twelve (12) month period.  If your Total Finances exceed $1,000,000 USD, you may only use Unity Pro or Unity Enterprise versions of the Unity Editor. 
 
 
 For clarity, unless otherwise set forth above, these Financial Thresholds apply whether or not you use the Unity Software as part of a Unity Plan.
@@ -51,6 +50,16 @@ Conditioned upon your compliance with these Software Terms and the Terms, and pa
 You may not distribute (within the Unity Package Manager, on Unity Forums or otherwise) User Modifications to enable access to, or optimize for, a Platform that is not a Unity Supported Platform without a separate grant of rights from Unity. You may create such User Modifications for your individual/own Project(s) for use by you and your Authorized Users.
 
 You may not make available all or any part of the Unity Editor or its functionality, nor process data using the Unity Editor, in each case to or for End Users, other than to your Authorized Users, through any cloud, hosting, application services provider, service bureau, software-as-a-service (SaaS) or any other technology or service or otherwise), without a separate grant of rights from Unity.
+
+2.1.1 Unity Student Plan
+
+Notwithstanding use restrictions set out in the Unity Terms of Service, Projects created pursuant to the Unity Student Plan may be used for commercial purposes subject to the Financial Threshold for the Unity Student Plan provided that the Project is: 
+
+(a) solely and independently created by the student; \
+(b) not developed in collaboration with others, including other students or third parties; and \
+(c) not distributed to and used by any third-party for commercial purposes. 
+
+For the avoidance of doubt, users of the Unity Student Plan may collaborate with each other on Projects for educational and non-commercial purposes only. 
 
 2.2 Unity Runtime
 
@@ -81,7 +90,7 @@ The following applies if you purchase, download, install or use Unity Build Serv
 
 Conditioned upon your compliance with these Software Terms and the Terms, and payment of all applicable subscription fees, Unity grants you a limited, worldwide, non-exclusive, non-transferable, non-sublicensable right during the applicable subscription term to use Unity Build Server to manage the use of the Unity Software, installed on a specified number of concurrent Machines (as permitted by your Unity Build Server subscription), for the sole purpose of generating “builds” of your Projects.
 
-Your Unity Build Server subscription tier (e.g., Unity Pro Build Server) must match the Unity Software subscription tier used to create your Projects (e.g., Unity Pro). You may not use Unity Build Server with the Unity Personal tier of the Unity Software.
+Your Unity Build Server subscription tier (e.g., Unity Pro Build Server) must match the Unity Software subscription tier used to create your Projects (e.g., Unity Pro). You may not use Unity Build Server with Unity Personal tiers of the Unity Software.
 
 2.6 HMI Platform Deployment 
 
@@ -105,7 +114,7 @@ Unless we make available and you have purchased floating licenses for a Plan tha
 
 Unity Software natively supports multiple third party Platforms (the “Unity Supported Platforms”). 
 
-Use of Unity Software with certain third party Unity Supported Platforms may require a current Unity Pro subscription and may be subject to additional technical requirements and/or terms and conditions (collectively, the “Closed Platform Requirements”), which may be accessed [here](https://unity.com/features/multiplatform) or provided directly by the third party platform providers. In addition, certain third party Unity Supported Platforms may require the use of “Preferred Platform” keys to enable use of Unity Software with that platform.  Access to such Preferred Platform keys may be obtained via the platform provider or Unity, as applicable.
+Use of Unity Software with certain third party Unity Supported Platforms may require a current Unity Pro subscription and may be subject to additional technical requirements and/or terms and conditions (collectively, the “Closed Platform Requirements”) provided by Unity, Unity Documentation,  and/or directly by the third party platform providers. In addition, certain third party Unity Supported Platforms may require the use of “Preferred Platform” keys to enable use of Unity Software with that platform. Access to such Preferred Platform keys may be obtained via the platform provider or Unity, as applicable.
 
 You acknowledge and agree that while Unity Software may support a specific Unity Supported Platform, project publishers, including publishers affiliated with such Unity Supported Platform(s), may mandate adoption of additional technical requirements or other standards, which Unity Software may not support.
 
@@ -127,21 +136,21 @@ You agree to retain the copyright, trademark, and other proprietary notices and 
 
 “[Project name] was made with Unity®. Unity is a trademark or registered trademark of Unity Technologies”
 
-“Copyright © 2005-xxxx Unity Technologies. All rights reserved.” No other license or right is granted under these Software Terms in the trademarks, service marks, trade names, and logos associated with Unity, Unity’s Offerings, or other intellectual property, including the Unity Software (the “Unity Trademarks”). All use of the Unity Trademarks must comply with [Unity’s Trademark Guidelines](https://unity.com/legal/branding-trademarks).
+“Copyright © 2005-xxxx Unity Technologies. All rights reserved.” 
+
+No other license or right is granted under these Software Terms in the trademarks, service marks, trade names, and logos associated with Unity, Unity’s Offerings, or other intellectual property, including the Unity Software (the “Unity Trademarks”). All use of the Unity Trademarks must comply with [Unity’s Trademark Guidelines](https://unity.com/legal/branding-trademarks).
 
 3. Support
 
-You may access the online forums and the Unity Answers knowledge base through the Site. You may also email support@unity3d.com for assistance with your seats. Technical support may be offered by Unity at its sole discretion as described on the Unity website or in any Offering Identification. You acknowledge and agree that Unity has no obligation under this Agreement to provide patches, updates, new releases or new versions of the Unity Software.
+You may access the online forums and the Unity Answers knowledge base through the Site. You may also submit a support request at support.unity.com for assistance with accounts, subscriptions, and licenses.  Technical support may be offered by Unity at its sole discretion as described on the Unity website or in any Offering Identification. You acknowledge and agree that Unity has no obligation under this Agreement to provide patches, updates, new releases or new versions of the Unity Software.
 
 4. Definitions:
 
-“Industry Customer” means any individual or legal entity licensing Unity Software or a Unity Plan hereunder to develop Projects for industrial use.Industry Customers may include, but are not limited to customers that develop Projects for the automotive, architecture, engineering, construction, aerospace, manufacturing, oil and gas, or retail industries.
+“Industry Customer” means any individual or legal entity licensing Unity Software or a Unity Plan hereunder to develop Projects for industrial use. Industry Customers may include, but are not limited to customers that develop Projects for the automotive, architecture, engineering, construction, aerospace, manufacturing, oil and gas, or retail industries.
 
-“Legal Entity” means any company, corporation, limited liability company, general partnership, limited partnership, limited liability partnership, proprietorship, joint venture or other form of business organization, including any Not-for-Profit Entity.
+“Legal Entity” means any company, corporation, limited liability company, general partnership, limited partnership, limited liability partnership, proprietorship, joint venture or other form of business organization, including any government, non-profit, educational or academic institution.
 
 “Machine” means a computer, or computer program, virtual computer, cloud instance or API connection that is configured to: (a) access your network in order to check Unity Build Server subscriptions out/in from a shared pool; and (b) run Unity Pro in the batch-mode that Unity Build Server unlocks and/or (c) set up the license server and auto-provision build server licenses. 
-
-“Not-for-Profit Entity” means any government, non-profit, educational or academic institution, including but not limited to any primary or secondary school, vocational school, college or university.
 
 “Package” means a distribution of files or resources packed together as a software collection to provide certain functionality to Unity Software users. 
 
@@ -151,21 +160,19 @@ You may access the online forums and the Unity Answers knowledge base through th
 
 “Unity Editor” means the executable form of the authoring environment provided by the Unity Software. 
 
-“Unity EdLab” means the streaming version of Unity Pro applicable to educational institutions as verified by Unity’s third-party partners for educational and/or other non-commercial purposes only.
-
 “Unity Enterprise” means the Unity Plan, which includes a subscription to use the enterprise version of the Unity Software as set forth in the Offering Identification.
 
 “Unity Industry” means the Unity Plan made specifically available to Industry Customers as set forth in the Offering Identification.
 
-“Unity Personal” means the “Unity Personal” version of the Unity Software. Unity Personal is available to individuals and Legal Entities who are Tier Eligible to use Unity Personal. 
+“Unity Personal” means the personal version of the Unity Software. Unity Personal is available to individuals and Legal Entities who are Tier Eligible to use Unity Personal. 
 
 “Unity Pro” means the Unity Plan, which includes a subscription to use a premium version of the Unity Software as set forth in the Offering Identification.
 
 “Unity Runtime” means the runtime portion of the Unity Software intended for distribution.
 
-“Unity Software” means all versions and updates of all the downloadable Unity Pro, Unity Enterprise, Unity Industry, and Unity Personal software products identified in the relevant Offering Identification. 
+“Unity Software” means all versions and updates of all the downloadable Unity Pro, Unity Enterprise, Unity Industry, Unity Student Plan and Unity Personal software products identified in the relevant Offering Identification. 
 
-"Unity Student Plan" means the student version of the "Unity Pro" subscription.  Students who are at least the age at which an individual can consent to the processing of their personal data (e.g., 13 in the United States, 16 in the European Union) and who are currently enrolled in an accredited educational institution, as verified by Unity or Unity third-party partner, are eligible to use the Unity Student Plan.
+"Unity Student Plan" means the Unity Plan, which includes a subscription to use a premium version of the Unity Software available for use by students who meet the following criteria: (a) at least 16 years of age; and (b) be currently enrolled in an accredited educational institution, as verified by Unity or Unity third-party partner.  An individual’s eligibility to use the Unity Student Plan is limited to ten (10) cumulative years.  
 
 “Unity Supported Platform” means any Platform listed in the “Unity Player System Requirements” section of the System Requirements.  For clarity, “Unity Supported Platforms”: (i) does not include the Platforms, SDKs, APIs, etc., that are distributed separately from Unity Pro, for instance via the Unity Asset Store or by third parties, even if the underlying operating system itself is part of a Unity Supported Platform (i.e., a Unity Supported Platform is a complete Platform, as defined. Herein, not the individual components of a Platform), and (ii) does not automatically include the streaming version of an existing Unity Supported Platform.
 
