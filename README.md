@@ -5,7 +5,8 @@ We are republishing this GitHub repository, where you can find all current and p
 [Unity.com/legal](https://unity.com/legal) is the best place to find all of our latest agreements all in one place.  Other agreements may be applicable to you depending on the products and services you’re using.  When we update any of our agreements, we post a summary of the changes under the heading “What’s changed”, and include a link on each page to the immediately prior version of such terms.
 
 ## Revisions
-* [December 4, 2024](Unity%20Software%20Additional%20Terms.md) **(Latest)**
+* [August 13, 2025](Unity%20Software%20Additional%20Terms.md) **(Latest)**
+* [December 4, 2024](../c3d513c/Unity%20Software%20Additional%20Terms.md)
 * [October 10, 2024](../0865d2c/Unity%20Software%20Additional%20Terms.md)
 * [November 6, 2023](../6f602fc/Unity%20Software%20Additional%20Terms.md)
 * [April 3, 2023](../50329a6/Unity%20Software%20Additional%20Terms.md)
