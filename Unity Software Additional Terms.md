@@ -1,8 +1,8 @@
 # **Unity Editor Software Terms**
 
-Last Updated:  June 30, 2026
+Last Updated:  November 16, 2026
 
-What’s changed: We have aligned the definition of "Platform" across our terms for consistency and restored the "Designated User" defined term. The definition of "User Modification" has been clarified to include conversion, transpiling, porting, and wrapping; to cover both the Unity Editor and the Unity Runtime; to extend to modifications made by your Affiliates or third parties acting on your behalf; and that preparing a Project for a non-Unity-Supported Platform requires a separate grant of rights from Unity. Lastly, we have further clarified that minimum subscription or spending commitments may apply at the Enterprise tier. You can view the prior version of the Software Terms [here](https://unity.com/legal/terms-of-service/software-legacy).
+What’s changed: We have expanded Unity Build Server (Section 2.5) beyond builds to cover other automated processes on your Projects, including testing and tasks performed by AI agents acting on your behalf through Authorized Agentic Access, and clarified that each concurrent instance of the Unity Software counts as a separate Machine. The definition of “Machine” now covers all tiers of the Unity Software and other headless modes. We have also clarified that each seat may be used on only one computer at a time, with no more than three (3) concurrent instances of the Unity Editor on that computer (Section 2.8). You can view the prior version of the Software Terms [here](https://unity.com/legal/terms-of-service/software-legacy).
 
 These terms (the “Software Terms”) govern your use of the Unity Editor, including pursuant to a Unity Plan, and supplement the Unity Terms of Service.   
 
@@ -90,7 +90,7 @@ For clarity, you must purchase a separate "Unity Build Server" subscription in o
 
 The following applies if you purchase, download, install or use Unity Build Server:
 
-Conditioned upon your compliance with these Software Terms and the Terms, and payment of all applicable subscription fees, Unity grants you a limited, worldwide, non-exclusive, non-transferable, non-sublicensable right during the applicable subscription term to use Unity Build Server to manage the use of the Unity Software, installed on a specified number of concurrent Machines (as permitted by your Unity Build Server subscription), for the sole purpose of generating “builds” of your Projects.
+Conditioned upon your compliance with these Software Terms and the Terms, and payment of all applicable subscription fees, Unity grants you a limited, worldwide, non-exclusive, non-transferable, non-sublicensable right during the applicable subscription term to use Unity Build Server to manage the use of the Unity Software, installed on a specified number of concurrent Machines (as permitted by your Unity Build Server subscription), for the sole purpose of running automated processes on your Projects, including builds, testing, and tasks performed by AI agents acting on your behalf through Authorized Agentic Access. Such use: (a) must run without the Unity Editor graphical user interface; and (b) each concurrent instance of the Unity Software counts as a separate Machine.
 
 Your Unity Build Server subscription tier (e.g., Unity Pro Build Server) must match the Unity Software subscription tier used to create your Projects (e.g., Unity Pro). You may not use Unity Build Server with the Unity Personal tier of the Unity Software.
 
@@ -110,7 +110,7 @@ Unity may automate delivery of certain Unity-authorized Packages within the Unit
 
 2.8 Concurrent use; Copies of Unity Software.
 
-Unless we make available and you have purchased floating licenses for a Plan that includes the Unity Editor, you (and your Authorized Users) may install the Unity Editor on both a primary and a secondary computer or operating system, solely for your convenience, but only for use by a single person. You may make a single copy of the Unity Editor solely for backup or archival purposes. For the sake of clarity, you (or your Authorized User) may only use one instance at any given time per seat. Unity may in its sole discretion authorize you to install the Unity Editor on additional computers or operating systems upon deactivation of the Unity Editor installed on existing computers. For clarity, in no event may third party service providers directly or indirectly distribute, run or use the Unity Editor so that it is executed on or simulated by the cloud or a remote server and transmitted over the Internet or other network except where they are acting on your behalf as an Authorized User in accordance with this Section.
+Unless we make available and you have purchased floating licenses for a Plan that includes the Unity Editor, you (and your Authorized Users) may install the Unity Editor on both a primary and a secondary computer or operating system, solely for your convenience, but only for use by a single person. You may make a single copy of the Unity Editor solely for backup or archival purposes. For the sake of clarity, you (or your Authorized User) may only use the Unity Editor on one computer at any given time per seat, with no more than three (3) concurrent instances of the Unity Editor on that computer, unless your Offering Identification permits more. Unity may in its sole discretion authorize you to install the Unity Editor on additional computers or operating systems upon deactivation of the Unity Editor installed on existing computers. For clarity, in no event may third party service providers directly or indirectly distribute, run or use the Unity Editor so that it is executed on or simulated by the cloud or a remote server and transmitted over the Internet or other network except where they are acting on your behalf as an Authorized User in accordance with this Section.
 
 2.9 Third Party Requirements
 
@@ -154,7 +154,7 @@ You may access the online forums and the Unity Answers knowledge base through th
 
 “Legal Entity” means any company, corporation, limited liability company, general partnership, limited partnership, limited liability partnership, proprietorship, joint venture or other form of business organization, including any government, non-profit, educational or academic institution.
 
-“Machine” means a computer, or computer program, virtual computer, cloud instance or API connection that is configured to: (a) access your network in order to check Unity Build Server subscriptions out/in from a shared pool; and (b) run Unity Pro in the batch-mode that Unity Build Server unlocks and/or (c) set up the license server and auto-provision build server licenses. 
+“Machine” means a computer, or computer program, virtual computer, cloud instance or API connection that is configured to: (a) access your network in order to check Unity Build Server subscriptions out/in from a shared pool; and (b) run the Unity Software in batch-mode or other headless mode that Unity Build Server unlocks and/or (c) set up the license server and auto-provision build server licenses. 
 
 “Package” means a distribution of files or resources packed together as a software collection to provide certain functionality to Unity Software users. 
 
